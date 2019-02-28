@@ -12,8 +12,6 @@ public class Soovitaja {
     HashMap<String,String> soovitused;
     Isik i;
 
-
-
     public Soovitaja(HashMap<String,String> soovitused, Isik i) {
         this.soovitused = soovitused;
         this.i = i;
