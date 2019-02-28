@@ -1,0 +1,8 @@
+﻿Milliseid järgmistest toitudest sa täna sõid?;Hamburger-a/Pitsa-b/Kartulikrõpsud-c
+Milliseid järgmistest toitudest sa täna sõid?;Võileivad-d/Šokolaad-e/Pähklid-z
+Milliseid jooke sa täna jõid?;Kohv-f/Tee-g/Vein-h/Õlu-i/Puuviljamahl-j/Piim-k
+Mitu puuvilja sa täna sõid?;x
+Millist liha sa täna sõid?;Veiseliha-l/Sealiha-m/Lambaliha-n/Kanaliha-o
+Ja mida sa sinna kõrvale sõid?;Pasta-p/Kartul-q/Riis-r
+Mitu muna sa täna sõid?;y
+Kas ostsid täna (uuena) mõne alljärgnevatest:;Paar teksaseid-t/T särk-u/Kingad-v

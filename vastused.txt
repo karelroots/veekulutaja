@@ -1,0 +1,9 @@
+﻿
+karel;y;5
+karel;a
+karel;b
+karel;f
+karel;t
+karel;u
+karel;v
+karel;x;3

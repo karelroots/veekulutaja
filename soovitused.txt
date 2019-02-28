@@ -1,0 +1,15 @@
+﻿w;w
+a;HAMBURGER: Kui soovid vett säästa, eelista valmistoitudele isevalmistatud ja kodumaist sööki.
+b;PITSA: Pitsa on parem valik kui burger, ent siiski eelista valmistoitudele isevalmistatud ja kodumaist sööki.
+e;ŠOKOLAAD: See on sama palju kui kulub umbes 24 korda vannis käimiseks. Maiusta võimalikult harva!
+f;KOHV: Kohvi kasvatamine on umbes neli korda veekulukam kui tee kasvatamine. Asenda mõni kohvitass päevas teega. 
+l;VEISELIHA: Veiste kasvatamine on väga veekulukas. Söö veiseliha harva ja eelista pigem sea- või kanaliha. 
+m;SEALIHA: Eelista taimseid toiduaineid lihale, söö liha nii tihti kui vaja, aga nii harva kui võimalik.
+n;LAMBALIHA: Söö lambaliha harva ja eelista pigem sea- või kanaliha. 
+o;KANALIHA: Tubli, kanaliha on kõige veesäästlikum liha. Sellegeipoolest, eelista taimseid toiduaineid lihale ja söö liha nii tihti kui vaja, aga nii harva kui võimalik.
+r;RIIS: Riisi kasvatamine on äärmiselt veekulukas. Eelista riisile näiteks kodumaist kartulit või pastatooteid.
+t;TEKSAPÜKSID: Seda on väga palju. Lisaks on teksade värvimine väga mürgine protsess. Eelista uute teksade ostmisele taaskasutus- ja vintage-poode. 
+u;T-SÄRK: Puuvilla kasvatamiseks kulub väga palju vett. Eelista uute riiete ostmisele taaskasutus- ja vintage-poode. 
+v;KINGAD: Ilma ei saa, aga osta kvaliteetseid jalanõusid ja kanna neid kaua!
+x;PUUVILJAD: Tubli, sõid palju puuvilju! Taimne toit on veesäästlik ja peale selle ka tervislik!
+y;MUNA: Ühe kanamuna poeletile jõudmiseks kulub 200 liitrit vett! Ära muretse, seda ei ole väga palju, aga me mõtlesime, et sa tahad äkki seda fakti oma sõpradega jagada :)
