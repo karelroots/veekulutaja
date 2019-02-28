@@ -10,11 +10,11 @@ import java.util.Optional;
 
 public class Soovitaja {
     HashMap<String,String> soovitused;
-    Isik i;
+    Isik isik;
 
-    public Soovitaja(HashMap<String,String> soovitused, Isik i) {
+    public Soovitaja(HashMap<String,String> soovitused, Isik isik) {
         this.soovitused = soovitused;
-        this.i = i;
+        this.isik = isik;
     }
 
     public void infoDialoog(AlertType type, String title, String header, String content) {
@@ -40,8 +40,8 @@ public class Soovitaja {
 
     public void annaSoovitusi() {
 
-        ArrayList<Veekulu> veekulud = i.getVeekulu();
-        double summa = i.getToiduVeekuluSumma()+i.getRiieteVeekuluSumma();
+        ArrayList<Veekulu> veekulud = isik.getVeekulu();
+        double summa = isik.getToiduVeekuluSumma()+ isik.getRiieteVeekuluSumma();
         if (summa > 20000) {
 
             infoDialoog(AlertType.ERROR, "Oh, issand!", "Sinu veekulu on päris kõrge!", "Edasi on mõned soovitused oma veekulu vähendamiseks.");

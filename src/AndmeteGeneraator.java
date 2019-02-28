@@ -5,7 +5,7 @@ import java.util.Random;
 public class AndmeteGeneraator {
 	ArrayList<String> vastused = new ArrayList<>();
 	HashMap<String, Integer> kogused = new HashMap<>();
-	String[] tähised = {"a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","t","u","v","x","y","z"};
+	String[] tähised = {"a","b","c","d","e","f","g","h","isik","j","k","l","m","n","o","p","q","r","t","u","v","x","y","z"};
 
 	public void genereeri(){
 		for (int i = 0; i < suvalineArv(5, tähised.length); i++) { // tsükkel jookseb suvaline arv kordi 1-st 24ni
